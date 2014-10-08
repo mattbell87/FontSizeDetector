@@ -19,7 +19,9 @@ Then code something like this in your own JavaScript file to detect font size ch
 FontSizeDetector.changed( function(e)
 {
     //This code is run every time the font size has been changed
-    console.log(e);
+    
+    //Uncomment the below to see font size changes:
+    //console.log(e);
 });
 
 ```
