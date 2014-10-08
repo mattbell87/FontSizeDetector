@@ -13,7 +13,7 @@ Please see the [release page](https://github.com/nrg753/FontSizeDetector/release
 Put this in your HTML somewhere (head will be fine, make sure it's loaded first):
 
 ```html
-<script src="fsdetect.js" type="text/javascript"></script>
+<script src="fsdetect.min.js" type="text/javascript"></script>
 ```
 
 Then code something like this in your own JavaScript file to detect font size changes:
