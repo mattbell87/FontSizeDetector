@@ -6,6 +6,14 @@ This is a self contained module, no external libraries are required to run it th
 
 ## Usage Example
 
+Put this in your HTML somewhere (head will be fine, make sure it's loaded first):
+
+```html
+<script src="fsdetect.js" type="text/javascript"></script>
+```
+
+Then code something like this in your own JavaScript file to detect font size changes:
+
 ```javascript
 
 FontSizeDetector.changed( function(e)
