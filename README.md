@@ -4,6 +4,10 @@ This script is a JavaScript module that detects when the font size has changed. 
 
 This is a self contained module, no external libraries are required to run it though it will run nicely beside one if you like!
 
+## Download
+
+Please see the [release page](https://github.com/nrg753/FontSizeDetector/releases).
+
 ## Usage Example
 
 Put this in your HTML somewhere (head will be fine, make sure it's loaded first):
